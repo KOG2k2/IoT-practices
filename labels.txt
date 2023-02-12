@@ -1,0 +1,2 @@
+0 Unmasked
+1 Masked
